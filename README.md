@@ -92,7 +92,7 @@ sudo apt update
 sudo apt install ffmpeg
 sudo apt pyaudioop-lts 
 ```
-NOTICE: The latest versions of Python do not support pyaudioop so use pyaudioop-lts
+NOTICE: The latest versions of Python do not support pyaudioop so use audioop-lts
 
 **macOS**
 
